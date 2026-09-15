@@ -1,0 +1,1 @@
+--relax --debug "typical" --mt "auto" -L "xil_defaultlib" -L "fifo_generator_v13_2_8" -L "xpm" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "simprims_ver" --snapshot "tb_top_GMSK_with_data_gen_ber_behav" "xil_defaultlib.tb_top_GMSK_with_data_gen_ber" "xil_defaultlib.glbl" -log "xelab_current.log" 

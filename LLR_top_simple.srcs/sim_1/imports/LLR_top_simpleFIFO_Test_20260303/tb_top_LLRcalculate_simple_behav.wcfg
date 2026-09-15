@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_top_GMSK_with_data_gen_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_top_GMSK_with_data_gen" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="15.900001 us"></ZoomEndTime>
+      <Cursor1Time time="6.760000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="163"></NameColumnWidth>
+      <ValueColumnWidth column_width="73"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/clk_100M" type="logic">
+      <obj_property name="ElementShortName">clk_100M</obj_property>
+      <obj_property name="ObjectShortName">clk_100M</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/rst_dds" type="logic">
+      <obj_property name="ElementShortName">rst_dds</obj_property>
+      <obj_property name="ObjectShortName">rst_dds</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/uut/data_mem" type="array">
+      <obj_property name="ElementShortName">data_mem[0:9]</obj_property>
+      <obj_property name="ObjectShortName">data_mem[0:9]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/softOut" type="array">
+      <obj_property name="ElementShortName">softOut[15:0]</obj_property>
+      <obj_property name="ObjectShortName">softOut[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/uut/data_finish" type="logic">
+      <obj_property name="ElementShortName">data_finish</obj_property>
+      <obj_property name="ObjectShortName">data_finish</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/llr_calc_done" type="logic">
+      <obj_property name="ElementShortName">llr_calc_done</obj_property>
+      <obj_property name="ObjectShortName">llr_calc_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/uut/dout_vd" type="logic">
+      <obj_property name="ElementShortName">dout_vd</obj_property>
+      <obj_property name="ObjectShortName">dout_vd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/uut/data_bit" type="logic">
+      <obj_property name="ElementShortName">data_bit</obj_property>
+      <obj_property name="ObjectShortName">data_bit</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/uut/data_index" type="array">
+      <obj_property name="ElementShortName">data_index[12:0]</obj_property>
+      <obj_property name="ObjectShortName">data_index[12:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/uut/u_top_gmsk/u_top_llr_system/llr_module/Alpha_cal_done" type="logic">
+      <obj_property name="ElementShortName">Alpha_cal_done</obj_property>
+      <obj_property name="ObjectShortName">Alpha_cal_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/uut/u_top_gmsk/u_top_llr_system/llr_module/beta_calc_done" type="logic">
+      <obj_property name="ElementShortName">beta_calc_done</obj_property>
+      <obj_property name="ObjectShortName">beta_calc_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/uut/u_top_gmsk/u_top_llr_system/llr_module/gamma_0" type="array">
+      <obj_property name="ElementShortName">gamma_0[255:0]</obj_property>
+      <obj_property name="ObjectShortName">gamma_0[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/uut/u_top_gmsk/u_top_llr_system/llr_module/gamma_1" type="array">
+      <obj_property name="ElementShortName">gamma_1[255:0]</obj_property>
+      <obj_property name="ObjectShortName">gamma_1[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/uut/u_top_gmsk/u_top_llr_system/llr_module/gamma_2" type="array">
+      <obj_property name="ElementShortName">gamma_2[255:0]</obj_property>
+      <obj_property name="ObjectShortName">gamma_2[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/uut/u_top_gmsk/u_top_llr_system/llr_module/gamma_3" type="array">
+      <obj_property name="ElementShortName">gamma_3[255:0]</obj_property>
+      <obj_property name="ObjectShortName">gamma_3[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/uut/u_top_gmsk/u_top_llr_system/llr_module/alpha" type="array">
+      <obj_property name="ElementShortName">alpha[0:3][127:0]</obj_property>
+      <obj_property name="ObjectShortName">alpha[0:3][127:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_GMSK_with_data_gen/uut/u_top_gmsk/u_top_llr_system/llr_module/beta_reg" type="array">
+      <obj_property name="ElementShortName">beta_reg[127:0]</obj_property>
+      <obj_property name="ObjectShortName">beta_reg[127:0]</obj_property>
+   </wvobject>
+</wave_config>

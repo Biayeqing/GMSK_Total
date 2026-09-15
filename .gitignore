@@ -1,0 +1,25 @@
+# ModelSim / Questa
+work/
+transcript
+vsim.wlf
+*.wlf
+*.log
+
+# Vivado
+.Xil/
+*.jou
+*.str
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+
+# MATLAB
+*.asv
+slprj/
+codegen/
+
+# Temporary
+*.tmp
+*.bak
+~*

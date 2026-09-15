@@ -1,0 +1,29 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.gen/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.gen/sources_1/ip/fifo_syn/sim/fifo_syn.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/FIFO_Q15_Q5_10.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/Rx_lowpass_filter.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/alpha_calculate.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/beta_calculator_top.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/downsample_10x.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/gamma_alpha_calculate_top.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/gamma_calculate.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/imports/2026-03/gmsk_modulator_top.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/llr_calculate.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/imports/mapping_guass_fifo/low_pass_filter.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/imports/mapping_guass_fifo/mapping.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/renew_both_matrix_module.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/renew_single_matrix_module.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/top_GMSK.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/top_GMSK_with_data_gen.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/top_LLRcalculate.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/top_integrated_system.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/imports/mapping_guass_fifo/tx_guass_filter.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/update_max_matrix_module.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/new/update_max_module.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.srcs/sources_1/imports/mapping_guass_fifo/upsample.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/ber_run/tb_top_GMSK_with_data_gen_ber.v" \
+"C:/Users/Administrator/Desktop/GMSK_Total_20260306/LLR_top_simple.sim/sim_1/behav/xsim/glbl.v" \
+
+nosort

@@ -1,0 +1,1 @@
+See gmsk_ber_compare_report.txt for the two-filter BER comparison.

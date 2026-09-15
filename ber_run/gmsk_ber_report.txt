@@ -1,0 +1,7 @@
+payload_len=100000
+tx_count=100000
+rx_count=100000
+compared=100000
+error_count=0
+first_error_index=-1
+ber=0.000000
