@@ -23,3 +23,13 @@ codegen/
 *.tmp
 *.bak
 ~*
+# Vivado generated directories
+*.gen/
+*.ip_user_files/
+*.utils_1/
+
+# Vivado waveform configuration
+*.wcfg
+
+# Project transfer archives
+/GMSK_modelsim_transfer_*.zip

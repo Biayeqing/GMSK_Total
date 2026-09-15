@@ -1,2 +1,0 @@
-fifo_syn.v,verilog,xil_defaultlib,../../../../GMSK.gen/sources_1/ip/fifo_syn/sim/fifo_syn.v,
-glbl.v,Verilog,xil_defaultlib,glbl.v

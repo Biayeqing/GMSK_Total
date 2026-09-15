@@ -1,2 +1,0 @@
-dds_ip.vhd,vhdl,xil_defaultlib,../../../../LLR_top_simple.gen/sources_1/ip/dds_ip/sim/dds_ip.vhd,
-glbl.v,Verilog,xil_defaultlib,glbl.v
